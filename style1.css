@@ -1,0 +1,36 @@
+/* body{ background-color: violet;} */
+/* #cv-template{ display: none;} */
+
+.myimg{
+    border: 1px solid skyblue;
+    border-radius:50%;
+    width: 200px;
+   }
+   
+   .background{ background-color:rgb(226, 239, 226);}
+   .btl{
+     border: none; width: 100%; background-color: lightgreen; padding: 15px 20px; border-radius:3px; cursor: pointer;
+     
+     
+    }
+    .btl:hover{background-color: deepskyblue;}
+   .background2{
+     background-color: lightyellow;
+   }
+
+   #generateCV{ padding:2rem 0 1rem;}
+
+   #fbT{ text-decoration: none;
+    font-weight: bold;
+  }
+   #instaT{ text-decoration: none;
+    font-weight: bold;
+  }
+   #linkedT{ text-decoration: none;
+    font-weight: bold;
+  }
+  .card-header{
+    background-color: skyblue;
+  }
+
+  #cv-form{background-color: #EFF2F9;}
